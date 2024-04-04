@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8dda11d-9c86-4e1b-86bd-482863a7d146" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-user.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category-posts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashbord.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit-category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit-post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit-user.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatar1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatar2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-author-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-author-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/app-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/app-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/app-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/books-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/books-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/books-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/branding-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/branding-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/branding-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/product-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/product-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blogs/product-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/comments-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/comments-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage-categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage-users.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/signin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="e8dda11d-9c86-4e1b-86bd-482863a7d146" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,27 +20,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ebSSQ7diNLtWEj5W8Mn4CGFih1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712171784283</updated>
       <workItem from="1712171786335" duration="903000" />
+      <workItem from="1712221506548" duration="124000" />
     </task>
     <servers />
   </component>
